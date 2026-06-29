@@ -1,10 +1,9 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Overview">
+<img src="https://img.shields.io/static/v1?label=Overview&message=vilarinhojoaope&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Overview">
 
-### Olá, meu nome é Seu Nome! 👋
+### Oi
 
 <p>
-  Trabalhando na <strong>Nome da Empresa</strong><br/>
-  Desenvolvedor <strong>Full Stack</strong> apaixonado por código limpo e boas práticas.
+  Estudante de <strong>Ciência da Computação UFPI</strong><br/>
 </p>
 
 ---
