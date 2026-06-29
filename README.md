@@ -1,16 +1,14 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=vilarinhojoaope&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Overview">
+<!-- Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
 
-### Oi
-
+  <br />
+</div>
 <p>
   Estudante de <strong>Ciência da Computação UFPI</strong><br/>
 </p>
 
----
 
-**Linguagens mais usadas:**
 
-[![vilarinhojoaope](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarinhojoaope&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
+[![vilarinhojoaope](https://github-readme-stats.vercel.app/api/top-langs/?username=vilarinhojoaope&hide=html&layout=compact&theme=default&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
