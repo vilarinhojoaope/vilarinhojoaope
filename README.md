@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Overview">
 
-<!--
-**vilarinhojoaope/vilarinhojoaope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, meu nome é Seu Nome! 👋
 
-Here are some ideas to get you started:
+<p>
+  Trabalhando na <strong>Nome da Empresa</strong><br/>
+  Desenvolvedor <strong>Full Stack</strong> apaixonado por código limpo e boas práticas.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tecnologias que uso:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
